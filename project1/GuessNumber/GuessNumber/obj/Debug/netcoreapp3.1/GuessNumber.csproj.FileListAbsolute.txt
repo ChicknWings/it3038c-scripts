@@ -1,0 +1,14 @@
+C:\Users\lingg\Documents\it3038c-scripts\project1\GuessNumber\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.exe
+C:\Users\lingg\Documents\it3038c-scripts\project1\GuessNumber\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.deps.json
+C:\Users\lingg\Documents\it3038c-scripts\project1\GuessNumber\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.runtimeconfig.json
+C:\Users\lingg\Documents\it3038c-scripts\project1\GuessNumber\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.runtimeconfig.dev.json
+C:\Users\lingg\Documents\it3038c-scripts\project1\GuessNumber\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.dll
+C:\Users\lingg\Documents\it3038c-scripts\project1\GuessNumber\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.pdb
+C:\Users\lingg\Documents\it3038c-scripts\project1\GuessNumber\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.csproj.AssemblyReference.cache
+C:\Users\lingg\Documents\it3038c-scripts\project1\GuessNumber\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lingg\Documents\it3038c-scripts\project1\GuessNumber\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.AssemblyInfoInputs.cache
+C:\Users\lingg\Documents\it3038c-scripts\project1\GuessNumber\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.AssemblyInfo.cs
+C:\Users\lingg\Documents\it3038c-scripts\project1\GuessNumber\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\lingg\Documents\it3038c-scripts\project1\GuessNumber\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.dll
+C:\Users\lingg\Documents\it3038c-scripts\project1\GuessNumber\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.pdb
+C:\Users\lingg\Documents\it3038c-scripts\project1\GuessNumber\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.genruntimeconfig.cache
