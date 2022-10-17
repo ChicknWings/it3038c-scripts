@@ -11,5 +11,5 @@ pip install amzqr
 
 
 After installing, use Powershell to open lab7.ps1 to see the example.
-There is also an example in the labs folder
-document for Amazing-QR: https://github.com/x-hw/amazing-qr/blob/master/README.md
+There is also an example in the labs folder.
+Document for Amazing-QR: https://github.com/x-hw/amazing-qr/blob/master/README.md
