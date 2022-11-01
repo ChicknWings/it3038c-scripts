@@ -1,0 +1,9 @@
+C:\Users\lingg\source\repos\坦克大战1\坦克大战1\obj\Debug\坦克大战1.Form1.resources
+C:\Users\lingg\source\repos\坦克大战1\坦克大战1\obj\Debug\坦克大战1.Properties.Resources.resources
+C:\Users\lingg\source\repos\坦克大战1\坦克大战1\obj\Debug\坦克大战1.csproj.GenerateResource.cache
+C:\Users\lingg\source\repos\坦克大战1\坦克大战1\obj\Debug\坦克大战1.csproj.CoreCompileInputs.cache
+C:\Users\lingg\source\repos\坦克大战1\坦克大战1\bin\Debug\坦克大战1.exe.config
+C:\Users\lingg\source\repos\坦克大战1\坦克大战1\bin\Debug\坦克大战1.exe
+C:\Users\lingg\source\repos\坦克大战1\坦克大战1\bin\Debug\坦克大战1.pdb
+C:\Users\lingg\source\repos\坦克大战1\坦克大战1\obj\Debug\坦克大战1.exe
+C:\Users\lingg\source\repos\坦克大战1\坦克大战1\obj\Debug\坦克大战1.pdb
