@@ -1,0 +1,5 @@
+widget1 is blue
+widget2 is green
+widget3 is red
+widget4 is yellow
+Press any key
