@@ -9,10 +9,11 @@
   },
   {
     "name": "widget3",
-    "color": "red"
+    "color": "black"
   },
   {
-    "name": "widget4",
-    "color": "yellow"
+    "name": "widgetX",
+    "color": "blue"
   }
+]
 ]
